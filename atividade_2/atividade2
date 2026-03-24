@@ -1,0 +1,7 @@
+#algoritmo condicional
+y=2
+condicao1 = (4*(y**2)) + (3*y) - 5 >= 7
+condicao2 = (2*y) > 3 or ((y-1) < 0)
+
+print("Resultado da condição 1:", condicao1)
+print("Resultado da condição 2:", condicao2) 
