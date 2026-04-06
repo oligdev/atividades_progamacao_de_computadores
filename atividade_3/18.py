@@ -1,3 +1,4 @@
+# Leia um número e: Mostre se ele é par positivo, par negativo, impar positivo, impar negativo ou neutro.
 num = int(input("Digite um número: "))
 if num == 0:
     print("Neutro")
